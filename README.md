@@ -1,6 +1,6 @@
 # realtime-chat
 
-A real-time chat application
+only-chat
 
 ### Built With
 
@@ -16,9 +16,9 @@ A real-time chat application
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
 
 ## Try it out
-- Visit [https://realtime-chat-phi.vercel.app/](https://realtime-chat-phi.vercel.app/)
+
 - Login/register using a username and password
-  
+
 ## Features
 
 - User authentication with JWT
@@ -26,26 +26,32 @@ A real-time chat application
 - Use search to find other users
 - Send messages to other users in realtime
 - Edit or delete your messages
-- Dark mode
 
 ## Getting Started
+
 ### Prerequisites
+
 - Docker Desktop
 
 Go to https://docs.docker.com/desktop/ and install Docker Desktop
 
 Run the following two commands to ensure that docker and docker compose are properly installed
+
 ```
 docker -v
 docker compose version
 ```
 
 ### Usage
+
 1. Clone the repo
+
 ```
-git clone https://github.com/drew18moore/realtime-chat.git
+git clone https://github.com/ebennaga/test-chat-app.git
 ```
+
 2. Navigate to the project's root directory and run the following command
+
 ```
 docker compose up
 ```
