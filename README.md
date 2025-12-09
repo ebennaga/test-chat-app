@@ -26,6 +26,7 @@ only-chat
 - Use search to find other users
 - Send messages to other users in realtime
 - Edit or delete your messages
+- Session Chat
 
 ## Getting Started
 
